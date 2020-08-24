@@ -1,1 +1,1 @@
-# motion-recognition-classification
+# motion-recognition-classification-model
