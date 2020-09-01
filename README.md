@@ -1,4 +1,4 @@
-# motion-recognition-classification-model
+# Motion Recognition Supervised Classification Model
 
 This model is majorly focused on handicapped people. We know that it is really difficult to be dependent on someone. We hope that this model will make people more independent and will also make one’s life beautiful. We are considering the people who are unable to walk and use a wheelchair for their mobility. We are planning to make their wheelchair a smart wheelchair.
 The results of this model are obtained by using Arduino Uno, Jupyter/Spyder, Arduino IDE, Servo motor and Accelerometer (MPU6050), jumper wires.
